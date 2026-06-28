@@ -54,10 +54,6 @@ The application provides an interactive graphical interface for booking movie ti
 Movie-Ticket-Booking-System
 │
 ├── MovieBookingSystem.java
-├── screenshots
-│   ├── home.png
-│   ├── booking-confirmation.png
-│   └── all-bookings.png
 └── README.md
 ```
 
